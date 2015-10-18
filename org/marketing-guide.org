@@ -2,7 +2,29 @@
 #+TITLE: Toastmasters Division F marketing resources
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-light.min.css" />
 
-* Flyers and Posters
+* Marketing information
+** [[file:resources/marketing-toolbox/tmi-info-documents/108-from-prospect-to-guest.pdf][How to recruit new club members]]
+A guide from Toastmasters International on how to recruit new club members.
+** [[file:resources/marketing-toolbox/tmi-info-documents/jan_jam_3a_holding_open_house.pdf][How to hold a great open house]]
+Useful guidelines on how to plan and hold a open house/demonstration meeting.
+** [[file:resources/marketing-toolbox/tmi-info-documents/jan_jam_4a_successful_club_meetings.pdf][3 elements of successful club meetings]]
+A discussion of the 3 keys elements necessary for successful club meetings.
+** [[file:resources/marketing-toolbox/tmi-info-documents/jan_jam_1a_guest_info_packet.pdf][What to include in your guest pack]]
+Must read: A list of guidelines on what to include in the your guest info/visitors pack.
+** [[file:resources/marketing-toolbox/tmi-info-documents/member_retention.pdf][How to retain members]]
+Guidelines and plans on how to more effectively retain members for your club.
+** [[file:resources/marketing-toolbox/tmi-info-documents/jan_jam_2a_new_mem_orient.pdf][How to conduct new member orientation]]
+Guidelines on how to conduct a new member orientation interview.
+** [[file:resources/marketing-toolbox/tmi-info-documents/moffitt---wow-your-visitors.pdf][Wow your visitors]]
+An article on how to WOW your visitors.
+** [[file:resources/marketing-toolbox/tmi-info-documents/354-your-membership-provides.pdf][What your membership provides?]]
+A useful document highlighting what members of Toastmasters get - add this to your visitors pack.
+** [[file:resources/marketing-toolbox/tmi-info-documents/features-benefits-values-chart2.pdf][Toastmasters features and benefits]]
+A list of features and benefits of Toastmasters - useful when planning your membership campaigns, or when talking to visiors.
+** [[file:resources/marketing-toolbox/tmi-info-documents/toastmasters-factsheet-2013-2014.pdf][Toastmasters fact sheet]]
+Some useful facts about Toastmasters
+
+* Marketing materials
 ** Toastmasters Official International Flyers
 Use these flyers and posters to promote your Toastmasters club or event. For example, you can:
  * Put them up at your local library, supermarket, or community centre
@@ -113,4 +135,19 @@ Poster targeting people new to a area. Maybe put it in mailboxes of recently sol
 [[file:resources/marketing-toolbox/other-flyers/what-can-tm-do-4-u-vsn-2-bear.png]]
 
 
+
+** Bookmarks
+These bookmarks are a good way of promoting your club, because they are useful to people and they tend to keep them around.
+
+Ideas for using them:
+ * Ask your local library to distribute them for you
+ * Give them to visitors
+ * Ask your members to distribute them
+ 
+*** [[file:resources/marketing-toolbox/bookmarks/bookmark-template-vsn-1.docx][Top Tips For Public Speaking]]
+[[file:resources/marketing-toolbox/bookmarks/bookmark-template-vsn-1-0.png]]
+*** [[file:resources/marketing-toolbox/bookmarks/bookmark-template-vsn-2.docx][Need to learn how to talk?]]
+[[file:resources/marketing-toolbox/bookmarks/bookmark-template-vsn-2-0.png]]
+*** [[file:resources/marketing-toolbox/bookmarks/bookmark-template-vsn-3.docx][Toastmasters is the answer]]
+[[file:resources/marketing-toolbox/bookmarks/bookmark-template-vsn-3.png]]
 
