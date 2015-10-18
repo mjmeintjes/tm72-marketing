@@ -1,8 +1,6 @@
-#+OPTIONS: num:0 toc:2
-#+TITLE: Toastmasters Division F marketing resources
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-light.min.css" />
 
-* Flyers and Posters
+* Marketing resources
 ** Toastmasters Official International Flyers
 Use these flyers and posters to promote your Toastmasters club or event. For example, you can:
  * Put them up at your local library, supermarket, or community centre
@@ -12,13 +10,13 @@ Use these flyers and posters to promote your Toastmasters club or event. For exa
 
 All of the posters and flyers below are available to download in Microsoft Word format. Simply download the file, open it in Microsoft Word, and add your club or event details.
 
-*** [[file:resources/marketing-toolbox/tmi-flyers/113-because-communication-isnt-optional.docx][Because Communication Isn't Optional]]
+*** [[file:resources/marketing-toolbox/tmi-flyers/113-because-communication-isnt-optional.docx][Because Communication Isn't Optional]] :business:
 [[file:resources/marketing-toolbox/tmi-flyers/113-because-communication-isnt-optional.png]]
 Poster for promoting your club meetings to business people - good for using at corporate clubs, or for putting up at businesses in your area.
-*** [[file:resources/marketing-toolbox/tmi-flyers/115-next-big-presentation.docx][Next Big Presentation]]
+*** [[file:resources/marketing-toolbox/tmi-flyers/115-next-big-presentation.docx][Next Big Presentation]] :business:general:
 [[file:resources/marketing-toolbox/tmi-flyers/115-next-big-presentation.png]]
 Poster for promoting your club meetings, targeting business people, or people who want to learn how to do better presentations.
-*** [[file:resources/marketing-toolbox/tmi-flyers/116-communicate-with-confidence-flyer.docx][Communicate With Confidence]]
+*** [[file:resources/marketing-toolbox/tmi-flyers/116-communicate-with-confidence-flyer.docx][Communicate With Confidence]] :general:
 [[file:resources/marketing-toolbox/tmi-flyers/116-communicate-with-confidence-flyer.png]]
 Poster for promoting your club meetings.
 *** [[file:resources/marketing-toolbox/tmi-flyers/124-all-about-toastmasters.docx][All About Toastmasters]]
@@ -45,9 +43,8 @@ Poster with full color image and some text about the importance of public speaki
 *** [[file:resources/marketing-toolbox/tmi-flyers/open-house-flier.docx][Open House Flier]]
 [[file:resources/marketing-toolbox/tmi-flyers/open-house-flier.png]]
 Poster to advertise your club's open day or demonstration meeting.
-** Other flyers
+** More Flyers
 Here's a big list of flyers and posters that you can use to promote your club. Either use these flyers as they are, or download them and make your own unique changes.
-
 *** [[file:resources/marketing-toolbox/other-flyers/be-a-powerful-communicator-v-students.doc][How to be a powerful communicator]]
 [[file:resources/marketing-toolbox/other-flyers/be-a-powerful-communicator-v-students.png]]
 A poster detailing the benefits of Toastmasters for Employees, Students, Business Owners and Community Leders. Put it up at libraries or on notice boards to advertise your club.
