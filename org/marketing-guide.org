@@ -1,8 +1,8 @@
-#+OPTIONS: num:0 toc:2
+#+OPTIONS: num:0 toc:2 html-postamble:nil
 #+TITLE: Toastmasters Division F marketing resources
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-light.min.css" />
 
-* Marketing information
+* Club marketing information and guides
 ** [[file:resources/marketing-toolbox/tmi-info-documents/108-from-prospect-to-guest.pdf][How to recruit new club members]]
 A guide from Toastmasters International on how to recruit new club members.
 ** [[file:resources/marketing-toolbox/tmi-info-documents/jan_jam_3a_holding_open_house.pdf][How to hold a great open house]]
@@ -23,7 +23,15 @@ A useful document highlighting what members of Toastmasters get - add this to yo
 A list of features and benefits of Toastmasters - useful when planning your membership campaigns, or when talking to visiors.
 ** [[file:resources/marketing-toolbox/tmi-info-documents/toastmasters-factsheet-2013-2014.pdf][Toastmasters fact sheet]]
 Some useful facts about Toastmasters
-
+* Useful marketing links
+** [[http://www.toastmasters.org.nz/district/district_promotions][Information on receiving funding for your club promotions]]
+District 72 has funds available to support the events, projects or promotional activities that are designed to increase brand awareness and grow Toastmasters membership throughout New Zealand.  Application for funds can be made by completing and submitting the D72 Promotional Funding Application Form, which can be found at the above link.
+** [[http://www.toastmasters.org/Leadership-Central/Public-Relations/Sample-News-Releases][Sample press release templates]]
+Give your club and/or district the publicity and recognition it deserves! Tell your local community about Toastmasters events, programs and member achievements. Use the press release templates at the above link, and submit them to your local newspaper.
+** [[http://www.toastmasters.org/Leadership-Central/Public-Relations][TMI public relations guides]]
+Several useful resources from Toastmasters International, including Public Relations training videos, logos, images and templates you can use, as well as guides on how to develop a PR calendar and program.
+** [[http://www.toastmasters.org/Leadership-Central/Logos-Images-and-Templates][Toastmasters International Logos, Images and Templates]]
+Official images, templates, stationery and videos from Toastmasters International that you can use in your marketing material.
 * Marketing materials
 ** Toastmasters Official International Flyers
 Use these flyers and posters to promote your Toastmasters club or event. For example, you can:
