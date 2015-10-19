@@ -1,5 +1,5 @@
 #+OPTIONS: num:0 toc:2 html-postamble:nil
-#+TITLE: Toastmasters Division F marketing resources
+#+TITLE: Toastmasters District 72 marketing resources
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-light.min.css" />
 
 * Club marketing information and guides
